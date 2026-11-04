@@ -8,10 +8,16 @@
 * **Прогресс:** Отслеживание прогресса выполнения своих задач.
 * **Уведомления:** Гибкие настройки уведомлений, чтобы ничего не забыть.
 
-## 📸 Скриншоты интерфейса
+## 🎨 Интерфейс
 
 <p align="center">
-  <img src="image%206.png" width="250" alt="Скриншот 1" />
-  <img src="image%207.png" width="250" alt="Скриншот 2" />
-  <img src="Frame%204.png" width="250" alt="Скриншот 3" />
+  <img src="image%206.png" width="600" alt="Интерфейс 1" />
+</p>
+
+<p align="center">
+  <img src="image%207.png" width="600" alt="Интерфейс 2" />
+</p>
+
+<p align="center">
+  <img src="Frame%204.png" width="600" alt="Интерфейс 3" />
 </p>
